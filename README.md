@@ -41,15 +41,12 @@ To run the project locally:
    git clone https://github.com/your-username/trixs-dice-game.git
 
 ✨ Future Enhancements
-Sound effects on roll
-
-Animated dice roll transition
-
-Score tracking per round
-
-Add game rounds or reset button
+- Sound effects on roll
+- Animated dice roll transition
+- Score tracking per round
+- Add game rounds or reset button
 
 🧑‍💻 Author
 Patrick Joseph Pronuevo
-Frontend & Game Developer
-GitHub • Instagram
+Web, UI/UX & Game Developer
+[GitHub](https://github.com/3xjoseph) • [Instagram](https://instagram.com/3x.joseph)
