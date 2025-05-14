@@ -1,0 +1,50 @@
+/* Color Palette */
+.dark-red-background {
+    background-color: #97051D;
+}
+
+.dark-red-color {
+    color: #97051D;
+}
+
+.light-red-color {
+    color: #EF233C;
+}
+
+.light-red-background {
+    background-color: #EF233C;
+}
+
+.green-background {
+    background-color: #76BA9D;
+}
+.green-color {
+    color: #76BA9D;
+}
+
+.dark-green-color {
+    color: #04361D;
+}
+
+.dark-green-background {
+    background-color: #04361D;
+}
+
+.beige-color {
+    color: #F0F2D5;
+}
+
+.beige-background {
+    background-color: #F0F2D5;
+}
+
+.btn-success.dark-green-background {
+    background-color: #265d29 !important;
+    border-color: #265d29 !important;
+  
+}
+
+.btn-success.dark-green-background:hover {
+    background-color: #2e7031 !important;
+    border-color: #2e7031 !important;
+}
