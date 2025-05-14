@@ -16,7 +16,7 @@ Welcome to **Trix's Dice Game**, a responsive and interactive web-based dice gam
 
 ## 📷 Screenshots
 
-> _Add screenshots of the game UI here to show gameplay on desktop and mobile._
+![image](https://github.com/user-attachments/assets/9dddd3dc-d87d-4bcf-9574-51e65ddf8509)
 
 ## 🛠️ Technologies Used
 
@@ -39,3 +39,17 @@ To run the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/trixs-dice-game.git
+
+✨ Future Enhancements
+Sound effects on roll
+
+Animated dice roll transition
+
+Score tracking per round
+
+Add game rounds or reset button
+
+🧑‍💻 Author
+Patrick Joseph Pronuevo
+Frontend & Game Developer
+GitHub • Instagram
